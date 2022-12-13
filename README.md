@@ -1,3 +1,9 @@
+This work is a product of Week 01 materials that I learned from Corise-Python for Data Science course. Link [here](https://corise.com/course/python-for-data-science)
+
+The final product obtained from this week is making an app using Streamlit. It will show us all the nearby Airbnb from our desired location to visit in the Amsterdam city whose price is below the threshold we put. The blue dot in the app is where we are planning to visit (Tulip Museum at Amsterdam city, Netherlands) and the red dots are all the nearby Airbnb that has price less than threshold price.
+
+https://sbdrchauhan-test-project1-streamlit-app-lpptkl.streamlit.app/
+
 # Week 01
 
 ## Numpy Introduction:
